@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: We The Internet Cyprus
+description: Καθορίστε το μέλλον του Διαδικτύου στην Κύπρο!
+
+github:
+  is_project_page: false

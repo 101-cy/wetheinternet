@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Ο μεγαλύτερος διάλογος για το Διαδίκτυο!
 
-You can use the [editor on GitHub](https://github.com/101-cy/wetheinternet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Γνωρίζεις τι συμβαίνει γύρω από την ψηφιακή σου ταυτότητα; Πώς μπορούμε να βάλουμε τέλος στο ψηφιακό χάσμα; Πώς γίνεται χρήση των προσωπικών σου δεδομένων από μοντέλα τεχνητής νοημοσύνης; Πώς μπορούμε να διασφαλίσουμε τα ψηφιακά ανθρώπινα δικαιώματα; Αυτά είναι μερικά από τα ζητήματα που εμείς, ως πολίτες, χρειάζεται να συζητήσουμε τώρα. Αυτός ο διάλογος είναι μία ευκαιρία να ενωθούμε και να προσφέρουμε στους υπεύθυνους λήψης αποφάσεων σημαντικές προτάσεις προς εφαρμογή.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Χιλιάδες πολίτες από όλο το κόσμο συμμετέχουν για να συζητήσουν το μέλλον του διαδικτύου στη χώρα τους. Γίνε ένας από αυτούς! Λαμβάνοντας μέρος στον Παγκόσμιο Διάλογο των πολιτών για το διαδίκτυο, μπορείς άμεσα να επηρεάσεις τη ψηφιακή πορεία της Κύπρου.
 
-### Markdown
+Πρόκειται για μια σπουδαία ευκαιρία να γνωρίσεις νέους ανθρώπους, να μάθεις για το διαδίκτυο, να μοιραστείς τις σκέψεις σου με άλλους και να κάνεις την φωνή σου να ακουστεί ανάμεσα σε αυτούς που λαμβάνουν τις αποφάσεις.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 12-13 Δεκεμβρίου 2020
 
-# Header 1
-## Header 2
-### Header 3
+Η διεξαγωγή του διαλόγου θα γίνει διαδικτυακά το Σάββατο 12 και την Κυριακή 13 Δεκεμβρίου, από τις 9 το πρωί μέχρι τη 1 το μεσημέρι. Η συμμετοχή σας είναι απαραίτητη και για τις δύο ημέρες.
 
-- Bulleted
-- List
+Στο τέλος της εκδήλωσης θα λάβετε πιστοποιητικό συμμετοχής, εκπτωτικά κουπόνια, και θα μπείτε σε κλήρωση για δώρα τεχνολογίας.
 
-1. Numbered
-2. List
+Για περισσότερες πληροφορίες επικοινωνήστε μαζί μας στο wetheinternet@101.cy ή επισκεφθείτε την ιστοσελίδα https://wetheinternet.org
 
-**Bold** and _Italic_ and `Code` text
+### Δηλώστε Συμμετοχή!
 
-[Link](url) and ![Image](src)
-```
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdLdLL3a71T0IdNpx9HrFcTrKkMDAKcJn-nXNiNvwkgnFOpcQ/viewform?embedded=true" width="640" height="2433" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Σκοπός
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/101-cy/wetheinternet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Στόχος του διαλόγου είναι να δώσει φωνή στους πολίτες όσον αφορά θέματα που άπτονται στη διαδικτυακή διακυβέρνηση με απώτερο σκoπό να σταλούν συγκεκριμένες προτάσεις στα κέντρα λήψης αποφάσεων. Μέχρι τώρα, περισσότερες από 100 χώρες από την Ευρώπη έως την Αμερική και την Ασία έχουν διοργανώσει τον διάλογο στη χώρα τους. Οι πολίτες της Κύπρου, είτε έχουν είτε δεν έχουν πρόσβαση στο διαδίκτυο, καλούνται να μάθουν, να συζητήσουν και να αποφασίσουν πώς μπορούμε να κάνουμε το διαδίκτυο ένα καλύτερο εργαλείο για τα επόμενα χρόνια.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Διοργάνωση
+
+Η πρωτοβουλία αυτή ξεκίνησε από τον Γαλλικό οργανισμό Missions Publiques (https://missionspubliques.org/) ο οποίος στοχεύει στη βελτίωση της διακυβέρνησης στον 21ου αιώνα, δρώντας σε τοπικό, εθνικό και παγκόσμιο επίπεδο. Ο διάλογος συνδιοργανώνεται από συνεργάτες σε παγκόσμιο επίπεδο, οι οποίοι προέρχονται από διαφορετικές κυβερνήσεις (Γαλλική Κυβέρνηση, German Federal Foreign Office), διεθνείς οργανισμούς (European Commission, European Council, UNESCO, World Economic Forum, Wikimedia, Internet Society), την κοινωνία πολιτών αλλά και από τον ιδιωτικό τομέα, (Google, Facebook).
+
+Τον διάλογο στην Κύπρο συντονίζουν το Τεχνολογικό Πανεπιστήμιο Κύπρου, Τμήμα Επικοινωνίας και Σπουδών Διαδικτύου και το Πανεπιστήμιο Κύπρου, Τμήμα Κοινωνικών και Πολιτικών Επιστημών, υπό την επίβλεψη της Δρ. Δήμητρας Μηλιώνη και της Δρ. Βενετίας Παπά και με τη συνεργασία του Μάριου Ισαακίδη και της Λύδιας Κολλύρη. Η υλοποίηση του έργου χρηματοδοτείται από το Συμβούλιο της Ευρώπης.
